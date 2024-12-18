@@ -5,7 +5,6 @@ Following topics:
 - Library APIs  
 - Prompting and Completion
 
-
 # 01 API (Application Programming Interface):
  - A set of rules and tools that allow different software programs to communicate and work together.
 
